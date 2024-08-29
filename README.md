@@ -2,9 +2,9 @@
 Used to document the functionalities of extensions in VSCode and system settings
 
 ## Extension
-* **Remote Explorer:** With the help of this tool, remote development can be carried out (By [Microsoft](https://microsofe.com))
+* **Remote Explorer [By Microsoft](https://microsofe.com):** With the help of this tool, remote development can be carried out
 
-* **Python:(By [Microsoft](https://microsofe.com))** Allows python files to be edited in VScode and provides basic features such as refactoring, highlighting, etc
+* **Python [by Microsoft](https://microsofe.com):** Allows python files to be edited in VScode and provides basic features such as refactoring, highlighting, etc
   * Support by Microsoft
 
 * **Jupyter By [Microsoft](https://microsofe.com):** Allows jupyter notebooks to be used in VScode
