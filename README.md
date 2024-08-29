@@ -15,7 +15,7 @@ Used to document the functionalities of extensions in VSCode and system settings
   * Support by Microsoft
 
 * **Black Formatter:** Formatting Python code
-  * ```(josn)
+  * ```josn
     "black-formatter.args": [
         "--line-length",
         "400"
