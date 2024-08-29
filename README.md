@@ -7,6 +7,10 @@ Used to document the functionalities of extensions in VSCode and system settings
 * **Python [Microsoft](https://microsofe.com):** Allows python files to be edited in VScode and provides basic features such as refactoring, highlighting, etc
 
 * **Jupyter [Microsoft](https://microsofe.com):** Allows jupyter notebooks to be used in VScode
+  * Set the root directory of the file path when running jupyter notebook
+    ```josn
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+    ```
  
 * **Data Wrangler [Microsoft](https://microsofe.com):** Data viewing tool that allows easy inspection of DataFrame and other variables
 
