@@ -7,7 +7,7 @@ Used to document the functionalities of extensions in VSCode and system settings
 * **Python:(By [Microsoft](https://microsofe.com))** Allows python files to be edited in VScode and provides basic features such as refactoring, highlighting, etc
   * Support by Microsoft
 
-* **Jupyter:** Allows jupyter notebooks to be used in VScode
+* **Jupyter By [Microsoft](https://microsofe.com):** Allows jupyter notebooks to be used in VScode
   * Support by Microsoft
  
 * **Data Wrangler:** Data viewing tool that allows easy inspection of DataFrame and other variables
