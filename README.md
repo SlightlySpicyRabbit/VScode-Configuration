@@ -1,4 +1,4 @@
-# VScode-configuration
+# VScode-Configuration
 Used to document the functionalities of extensions in VSCode and system settings
 
 ## Extension
